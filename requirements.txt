@@ -1,0 +1,15 @@
+langchain
+openai
+faiss-cpu
+tiktoken
+pypdf
+fastapi
+uvicorn
+python-dotenvlangchain
+openai
+faiss-cpu
+tiktoken
+pypdf
+fastapi
+uvicorn
+python-dotenv
